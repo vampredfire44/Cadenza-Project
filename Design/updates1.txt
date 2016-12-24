@@ -1,0 +1,7 @@
+Updates1: 
+* IMP!!: The python file that is my game is called “pythonactuallyworks.py” 
+* Created the user interface! Woo hoo 
+* Can draw quarter notes by clicking on the staff and can detect what those notes are on the staff (will expand to other types of notes) 
+* Created a dialog box that gets input from the user when click the buttons for time and key signatures 
+* Created an algorithm to figure out the main chords (I, II, IV, V) for each key 
+* Created a “Song” Button that randomly generates a new song in the chosen key that the user input by using Markov Chains and plays the new song (works for all keys!) 
